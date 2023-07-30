@@ -116,6 +116,7 @@
         style="@style/buttonRow"
         >
         <Button
+            android:text="."
             style="@style/buttonNumber"/>
 
         <Button
